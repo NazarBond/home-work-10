@@ -60,3 +60,4 @@ repeatMessage(3, helloMessage);
 
 console.log("Парність індекса:");
 repeatMessage(5, evenIndexMessage);
+//okei//
